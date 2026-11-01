@@ -28,6 +28,6 @@
     "@ggez/anim-compiler": "workspace:*",
     "@ggez/anim-schema": "workspace:*",
     "@ggez/anim-utils": "workspace:*",
-    "zod": "^3.25.76"
+    "zod": "^4.6.7"
   }
 }
